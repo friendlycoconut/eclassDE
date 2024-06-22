@@ -1,0 +1,57 @@
+{
+    "name": "Intenzív terápiás eszköz",
+    "level": 3,
+    "id": 34540100.0,
+    "children": [
+        {
+            "name": "Fibrillátor",
+            "level": 4,
+            "id": 34540105.0,
+            "children": [],
+            "count": 135,
+            "percentageCount": 100.0,
+            "percentageGrossAmountValue": 100.0,
+            "percentageNetAmountValue": 100.0,
+            "percentageTotalPriceValue": 100.0,
+            "percentageCountOfTotal": 0.012827042065096763,
+            "percentageGrossAmountValueOfTotal": 3.948448813816295e-05,
+            "percentageNetAmountValueOfTotal": 3.429850509500646e-05,
+            "percentageTotalPriceValueOfTotal": 0.010018769291846086,
+            "sumGrossAmountValue": 122868.61,
+            "sumNetAmountValue": 106723.58,
+            "sumTotalPriceValue": 57915.729999999996,
+            "classHierarchy": {
+                "eclass_1": 34000000.0,
+                "eclass_1_name": "Orvostechnikai eszköz",
+                "eclass_2": 34540000.0,
+                "eclass_2_name": "Terápiás eszköz",
+                "eclass_3": 34540100.0,
+                "eclass_3_name": "Intenzív terápiás eszköz",
+                "eclass_4": 34540105.0,
+                "eclass_4_name": "Fibrillátor"
+            }
+        }
+    ],
+    "count": 135,
+    "percentageCount": 100.0,
+    "percentageGrossAmountValue": 100.0,
+    "percentageNetAmountValue": 100.0,
+    "percentageTotalPriceValue": 100.0,
+    "percentageCountOfTotal": 0.012827042065096763,
+    "percentageGrossAmountValueOfTotal": 3.948448813816295e-05,
+    "percentageNetAmountValueOfTotal": 3.429850509500646e-05,
+    "percentageTotalPriceValueOfTotal": 0.010018769291846086,
+    "sumGrossAmountValue": 122868.61,
+    "sumNetAmountValue": 106723.58,
+    "sumTotalPriceValue": 57915.729999999996,
+    "classHierarchy": {
+        "eclass_1": 34000000.0,
+        "eclass_1_name": "Orvostechnikai eszköz",
+        "eclass_2": 34540000.0,
+        "eclass_2_name": "Terápiás eszköz",
+        "eclass_3": 34540100.0,
+        "eclass_3_name": "Intenzív terápiás eszköz",
+        "eclass_4": null,
+        "eclass_4_name": null
+    }
+}
