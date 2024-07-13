@@ -8,8 +8,6 @@ This project demonstrates how to parse nested JSON data and visualize it using a
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -19,3 +17,10 @@ To get started with this project, clone the repository and install the required 
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
+
+## Usage
+
+Run the Dash application:
+```bash
+python app.py
+
