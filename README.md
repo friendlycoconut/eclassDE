@@ -1,22 +1,21 @@
+# Test Nested JSON Parser with Plotly Treemap
+
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-# Project Name
+This project demonstrates how to parse nested JSON data and visualize it using a Plotly treemap in a Dash application. The JSON data is normalized and merged into a pandas DataFrame, which is then used to create the treemap visualization.
 
-Short description or introduction to your project.
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Installation
 
-Instructions on how to install your project or dependencies.
+To get started with this project, clone the repository and install the required dependencies.
 
-## Usage
-
-Instructions on how to use your project or examples of usage.
-
-## Contributing
-
-Guidelines for contributing to your project.
-
-## License
-
-Information about the license under which your project is distributed.
-
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
