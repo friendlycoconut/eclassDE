@@ -17,6 +17,7 @@ To get started with this project, clone the repository and install the required 
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
+```
 
 ## Usage
 
